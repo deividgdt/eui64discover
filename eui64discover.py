@@ -11,7 +11,7 @@ os.system("echo ' / /___/ /_/ // // /_/ /__  __/  / /_/ // / ___/ / /___/ /_/ /|
 os.system("echo '/_____/\____/___/\____/  /_/    /_____/___//____/\____/\____/ |___/_____/_/ |_|'")  
 os.system("echo 'by @deividgdt'")
 os.system("echo ''")
-os.system("echo 'Buscando direcciones MAC en el fichero...'")
+os.system("echo Buscando direcciones MAC en el fichero: %(filename)s" %locals())
 os.system("sleep 3")
 
 #Funcion principal
