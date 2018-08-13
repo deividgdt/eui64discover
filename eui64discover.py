@@ -9,6 +9,7 @@ os.system("echo '   / ____/ / / /  _/ ___// // /    / __ \/  _/ ___// ____/ __ \
 os.system("echo '  / __/ / / / // // __ \/ // /_   / / / // / \__ \/ /   / / / / | / / __/ / /_/ /'")
 os.system("echo ' / /___/ /_/ // // /_/ /__  __/  / /_/ // / ___/ / /___/ /_/ /| |/ / /___/ _, _/'")
 os.system("echo '/_____/\____/___/\____/  /_/    /_____/___//____/\____/\____/ |___/_____/_/ |_|'")  
+os.system("echo 'by @deividgdt'")
 os.system("echo ''")
 os.system("echo 'Buscando direcciones MAC en el fichero...'")
 os.system("sleep 3")
